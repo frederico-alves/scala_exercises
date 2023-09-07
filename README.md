@@ -1,2 +1,2 @@
-# scala_exercises
-Scala Exercises from Functional Programming
+# Scala Exercises
+Scala Exercises from Functional Programming Book - 2nd edition
